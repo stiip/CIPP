@@ -1,7 +1,8 @@
 {
   "networking": {
     "allowedIpRanges": [
-      "TUO.IP.PUB.BLICO/32"
+      "83.148.178.40/29",
+      "79.9.15.193/32"
     ]
   }
 }
