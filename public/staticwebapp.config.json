@@ -1,0 +1,7 @@
+{
+  "networking": {
+    "allowedIpRanges": [
+      "TUO.IP.PUB.BLICO/32"
+    ]
+  }
+}
